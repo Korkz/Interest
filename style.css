@@ -28,6 +28,11 @@ p {
   text-align:center;
 }
 
+h2 {
+  style="color:magenta; 
+  font-size:200%;"
+}
+
 ul {
   color:magenta;
   font-size:120%;
