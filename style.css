@@ -13,7 +13,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
+  height:500px;
+  width:500px;}
 
 p {
   color:magenta;
@@ -34,4 +35,9 @@ h2 {
 ul {
   color:magenta;
   font-size:120%;
+}
+
+iframe {
+  height:500px;
+  width:500px;
 }
