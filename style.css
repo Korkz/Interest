@@ -20,7 +20,7 @@ p {
   font-size:120%;
 }
 
-#caption {
+.caption {
   color:magenta; 
   font-size:80%; 
   text-align:center;
